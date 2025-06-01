@@ -1,0 +1,46 @@
+body{
+    background-color:black;
+    color:bisque;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:auto;
+    text-align:center;
+}
+h2{
+    background-color: #867d73;
+    width:100%;
+    margin:auto;
+    padding:10px;
+}
+
+h3{
+    background-color: #867d73;
+    color:#433b3b;
+    padding:10px;
+    width:500px;
+    margin:20px auto;
+}
+table{
+    width:100%;
+    max-width:500px;
+    margin:auto;
+    text-align:center;
+}
+th,td{
+    width:50%;
+    text-align:center;
+    padding:10px;
+    border:2px solid #867d73;
+}
+caption{
+    margin:20px auto 10px;
+    padding:10px;
+    font-size: 30px;
+    background-color: blanchedalmond;
+    color:darkslategrey;
+}
+
+img{
+    border:2px solid #867d73;
+    padding:10px;
+    width:250px;
+}
